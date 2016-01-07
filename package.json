@@ -1,0 +1,16 @@
+{
+  "private": "true",
+  "name": "RobotNameGenerator",
+  "version": "v1.0.0",
+  "description": "random names of robots, like Wall-E",
+
+  "scripts": {
+  },
+
+  "dependencies": {
+  },
+  
+  "devDependencies": {
+    "mocha": "2.3.4"
+  }
+}
